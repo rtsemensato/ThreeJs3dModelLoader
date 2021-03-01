@@ -47,7 +47,7 @@ document.body.appendChild(renderer.domElement);
 // cube4.position.y = 3;
 
 const loader = new GLTFLoader();
-loader.load("./3dmodels/serra.glb", (gltf) => {
+loader.load("./3dmodels/baphomet/scene.gltf", (gltf) => {
     gltf.scene.traverse((c) => {
         c.castShadow = true;
     });
