@@ -1,0 +1,11 @@
+Model Information:
+* title:	Baphomet
+* source:	https://sketchfab.com/3d-models/baphomet-151a369bf3c6417a988c282d71de9111
+* author:	7PLUS (https://sketchfab.com/7plus)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Baphomet" (https://sketchfab.com/3d-models/baphomet-151a369bf3c6417a988c282d71de9111) by 7PLUS (https://sketchfab.com/7plus) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
