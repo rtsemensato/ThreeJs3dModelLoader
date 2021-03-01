@@ -1,1 +1,1 @@
-ThreeJs3dModelLoader
+testandoThreeJsLoader
